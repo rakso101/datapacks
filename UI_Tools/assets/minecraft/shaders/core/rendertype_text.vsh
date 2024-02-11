@@ -28,8 +28,8 @@ void main() {
     texCoord0 = UV0;
     
 //for images use red 231..250  
-    if(gl_Position.y > -0.5 && gl_Position.y < 0.85 && gl_Position.x > 0.0 && gl_Position.x <= 1.1 && Position.z == 0.0) {
-        gl_Position *= 0;//this removes any text on the left of the screen by crusing its position to 0
+    if(gl_Position.y > -0.5 && gl_Position.y < 0.85 && gl_Position.x > 0.9 && gl_Position.x <= 1.1 && Position.z == 0.0) {
+        gl_Position *= 0;//this removes any text on the left of the screen by crushing its position to 0
     }
     
     if(Color.x >= 231/255. && Color.x <= 250/255. && Position.z == 0.00){
