@@ -1,1 +1,0 @@
-function minimap:minimap/load
