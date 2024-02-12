@@ -1,0 +1,11 @@
+{
+    "providers": [
+	{
+            "type": "bitmap",
+            "file": "minecraft:ui/minimap/example.png",
+            "ascent": 0,
+            "height": 0,
+            "chars": ["\uE000"]
+        }
+    ]
+}
