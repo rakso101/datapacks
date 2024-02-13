@@ -9,6 +9,7 @@ Right now this pack adds functionality to position and resize font pngs by setti
 After installing the datapack and resourcepack use the following command to position the text:
 
 ```team modify ui_001 prefix [{"text":"\ue000","color":"#f08080"}]```
+
 Replace Change the color to position the image around the screen.
 
 
