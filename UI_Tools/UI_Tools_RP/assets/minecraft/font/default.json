@@ -1,0 +1,18 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:ui/cat_001.png",
+            "ascent": 0,
+            "height": 0,
+            "chars": ["\uE000"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ui/marker.png",
+            "ascent": 0,
+            "height": 0,
+            "chars": ["\uE001"]
+        }
+    ]
+}
