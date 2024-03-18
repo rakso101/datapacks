@@ -20,7 +20,7 @@ Replace Change the color to position the image around the screen.
 This is a barebones shader with cool texts effects based on the color of text in the title for 1.20.4
 
 This command is a good idea of what is possible
-/title @p title [{"text":"\ue001","color":"#e50000"},{"text":"\ue001","color":"#e40000"},{"text":"\ue000","color":"#e30000"}]\
+```/title @p title [{"text":"\ue001","color":"#e50000"},{"text":"\ue001","color":"#e40000"},{"text":"\ue000","color":"#e30000"}]\```
 
 
 
