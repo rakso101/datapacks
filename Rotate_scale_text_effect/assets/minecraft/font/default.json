@@ -1,0 +1,18 @@
+{
+    "providers": [
+	{
+            "type": "bitmap",
+            "file": "minecraft:overlays/turnip_000.png",
+            "ascent": 0,
+            "height": 0,
+            "chars": ["\uE000"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:overlays/radial.png",
+            "ascent": 0,
+            "height": 0,
+            "chars": ["\uE001"]
+        }
+    ]
+}
