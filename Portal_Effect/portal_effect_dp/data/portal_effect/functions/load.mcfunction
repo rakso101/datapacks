@@ -1,0 +1,1 @@
+scoreboard objectives add portal_effect dummy
