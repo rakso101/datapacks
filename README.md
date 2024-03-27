@@ -22,5 +22,7 @@ This is a barebones shader with cool texts effects based on the color of text in
 This command is a good idea of what is possible
 ```/title @p title [{"text":"\ue001","color":"#e50000"},{"text":"\ue001","color":"#e40000"},{"text":"\ue000","color":"#e30000"}]\```
 
+--Portal effect--
+This is a 1.20.4 resourcepack and datapack that adds a portal effect to the screen using custom fonts and the redertype_text core shader.
 
 
