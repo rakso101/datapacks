@@ -14,7 +14,7 @@ After installing the datapack and resourcepack use the following command to posi
 
 ```team modify ui_001 prefix [{"text":"\ue000","color":"#f08080"}]```
 
-Replace Change the color to position the image around the screen.
+The green and blue channels control the x and y position respectively. This is done as a poportion of the screen so the aspect ratio of the screen will affect the postion of the element.
 
 --Rotate Scale Text Effect--
 This is a barebones shader with cool texts effects based on the color of text in the title for 1.20.4
