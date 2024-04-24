@@ -26,5 +26,5 @@ This command is a good idea of what is possible
 This is a 1.20.4 resourcepack and datapack that adds a portal effect to the screen using custom fonts and the redertype_text core shader.
 
 --Shader Selector (Zoom)--
-A modified version of cloudwolfs shader selector to apply a zoom in effect.
+A modified version of cloudwolfs shader selector to apply a zoom in effect. 1.20.4
 
